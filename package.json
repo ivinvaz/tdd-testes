@@ -22,6 +22,6 @@
   "homepage": "https://github.com/ivinvaz/ddd-testes#readme",
   "devDependencies": {
     "@vitest/ui": "^4.1.5",
-    "vitest": "^4.1.5"
+    "vitest": "^4.1.11"
   }
 }
